@@ -1,1 +1,1 @@
-
+Predicting breast cancer diagnosis (Benign/Malignant) with XGBoost, including data cleaning, k-Fold Cross Validation, classification metrics, and feature importance analysis (Python, Scikit-learn, XGBoost)
